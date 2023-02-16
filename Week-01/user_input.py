@@ -18,7 +18,7 @@ sum_num = int(f_num) + int (s_num)
 print ( "The sum of the nurmber is",sum_num)
 diff_num = int( f_num) -int (s_num)
 quot_num = int ( f_num) / int (s_num)
-pro_num =int ( f_num ) *int (s_num)S
+pro_num =int ( f_num ) *int (s_num)
 print(" The difference of the nurmber is :",diff_num)
 print (" The quotient of the nurmber is :",quot_num)
 print ( " The product of the nurmber is :",pro_num)
