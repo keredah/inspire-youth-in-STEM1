@@ -1,8 +1,9 @@
 # Get the average of the nurmbers in the list by first entering them as input 
 #numbers=[]
-sum_num=0
-for nurmber in nurmbers:
-    number=int (input"enter the first 10 nurmbers")
-    sum_num = sum_num+nurmber
-    avarage_num=sum_num/10
-    print 
+n = int(input("Enter the number of elements: ")) 
+for i in range(0, n): 
+    elem = int(input("Enter the elements: ")) 
+    numbers.append(elem) 
+avg = sum(numbers)/n
+print("The created list:",numbers)
+print("The average = ",avg)

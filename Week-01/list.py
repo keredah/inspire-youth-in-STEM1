@@ -17,5 +17,5 @@ for vegetable in vegetables:
     print (vegetable)
 for shopping in shoppings:
     print (shopping)
-print ("my name is " + names[0]+" and Smy fevorite fruit is " + fruits[2])
+print ("my name is " + names[0]+" and my fevorite fruit is " + fruits[2])
  
