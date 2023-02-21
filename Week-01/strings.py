@@ -1,3 +1,10 @@
+# !user/bin/env/python3
+# this is a single line comment
+#python programm it illustrate strings.
+# name = peter keredah
+# email =peterkeredah85@gmail.com
+# date: 10th feb 2023
+#file : operators
 message = "hello"
 name = "anita"
 greeting = message + " " + name
@@ -16,6 +23,5 @@ str3="i love football"
 print(str1==str2)
 print(str1==str3) 
 print(str1==str2)
-#string membership test
 print("a"in "program")#True
 print('at'in 'battle')#False

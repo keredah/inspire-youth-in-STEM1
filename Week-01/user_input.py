@@ -1,3 +1,11 @@
+# !user/bin/env/python3
+# this is a single line comment
+#python programm it illustrate user_input.
+# name = peter keredah
+# email =peterkeredah85@gmail.com
+# date: 12th feb 2023
+#file : operators
+
 name=input("what is your name")
 print("my name is ",name)
 f_num= input("enter first nurmber")

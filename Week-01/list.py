@@ -1,3 +1,12 @@
+# !user/bin/env/python3
+# this is a single line comment
+#python programm it illustrate listing in python.
+# name = peter keredah
+# email =peterkeredah85@gmail.com
+# date: 08th feb 2023
+#file : operators
+
+
 names=["john","peter","patrick","james","mary"]
 #accessing items in a list
 print (names)

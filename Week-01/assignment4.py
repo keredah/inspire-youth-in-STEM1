@@ -1,4 +1,13 @@
-print("EQUITY BANK ACCOUNT")
+# !user/bin/env/python3
+# this is a single line comment
+#python programm it illustrate how to print.
+# name = peter keredah
+# email =peterkeredah85@gmail.com
+# date: 09th feb 2023
+#file : operators
+
+
+("EQUITY BANK ACCOUNT")
 print("ACCRA ROAD BRANCH")
 print("8TH FEBRUARY 2023")
 print("ACCOUNT NAME:PETER KEREDAH")
