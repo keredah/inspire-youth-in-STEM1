@@ -13,6 +13,6 @@ celebs=musicians.copy()
 print (celebs)
 celebs.sort()
 print(celebs)
-celeb.pop(2)
+celebs.pop(2)
 print(celebs)
 

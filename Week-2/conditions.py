@@ -1,3 +1,11 @@
+# !user/bin/env/python3
+# this is a single line comment
+#python programm it illustrate how to use"if" and "else".
+# name = peter keredah
+# email =peterkeredah85@gmail.com
+# date: 14th feb 2023
+#file : conditions
+
 age = 34
 gender ="male"
 if (age <18):

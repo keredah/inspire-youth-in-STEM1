@@ -3,8 +3,8 @@
 #python programm it illustrate listing in python.
 # name = peter keredah
 # email =peterkeredah85@gmail.com
-# date: 08th feb 2023
-#file : operators
+# date: 10th feb 2023
+#file : list
 
 
 names=["john","peter","patrick","james","mary"]

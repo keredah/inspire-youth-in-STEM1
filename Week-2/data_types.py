@@ -1,3 +1,10 @@
+# !user/bin/env/python3
+# this is a single line comment
+#python programm it illustrate how to use of data_types".
+# name = peter keredah
+# email =peterkeredah85@gmail.com
+# date: 14th feb 2023
+#file : data_types
 #floating and non floating
 # weight =80kg (decimal
 # grades =72% non foating

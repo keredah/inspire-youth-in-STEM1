@@ -1,3 +1,10 @@
+# !user/bin/env/python3
+# this is a single line comment
+#python programm it illustrate how to use of cubes_squares.
+# name = peter keredah
+# email =peterkeredah85@gmail.com
+# date: 14th feb 2023
+#file : for_loop
 #To print squares of nurmbers
 for i in range (0,10):
  print ("squares of ",i **2)

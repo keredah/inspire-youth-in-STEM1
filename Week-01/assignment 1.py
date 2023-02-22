@@ -4,7 +4,7 @@
 # name = peter keredah
 # email =peterkeredah85@gmail.com
 # date: 08th feb 2023
-#file : operators
+#file : assignment1
 
 
 print("PETER PHARMACEUTICAL COMPANY ")

@@ -1,10 +1,10 @@
 # !user/bin/env/python3
 # this is a single line comment
-#python programm it illustrate how to calculate simplie interest.
+#python programm it illustrate how to calculate simple interest.
 # name = peter keredah
 # email =peterkeredah85@gmail.com
-# date: 08th feb 2023
-#file : operators
+# date: 10th feb 2023
+#file : math
 
 # write a programm that calculate simple interest
 p = input ("enter principal amount:")

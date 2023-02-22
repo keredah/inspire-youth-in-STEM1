@@ -1,10 +1,10 @@
 # !user/bin/env/python3
 # this is a single line comment
-#python programm it illustrate strings.
+#python programm to illustrate strings.
 # name = peter keredah
 # email =peterkeredah85@gmail.com
 # date: 10th feb 2023
-#file : operators
+#file : strings
 message = "hello"
 name = "anita"
 greeting = message + " " + name

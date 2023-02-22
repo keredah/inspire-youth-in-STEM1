@@ -4,12 +4,11 @@
 # name = peter keredah
 # email =peterkeredah85@gmail.com
 # date: 08th feb 2023
-#file : operators
-
-
-print                 ("*")
-print              ("******")
-print             ("**********")
-print           ("************")
-print              (" ********")
-
+#file : Assignment2
+print        ("**")
+print        ("***")
+print       ("*****")
+print     ("**********")
+print    ("***************")
+print   ("*****************")
+print ("***********************")

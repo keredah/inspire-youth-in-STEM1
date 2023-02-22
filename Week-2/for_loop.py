@@ -1,6 +1,14 @@
+
+# !user/bin/env/python3
+# this is a single line comment
+#python programm it illustrate how to use for_loop.
+# name = peter keredah
+# email =peterkeredah85@gmail.com
+# date: 16th feb 2023
+#file : for_loop
+
 # for i in range (0,7):
 #     print (i)
-    
 #part of code that runs continously
 #-for loop
 # do while (condition)

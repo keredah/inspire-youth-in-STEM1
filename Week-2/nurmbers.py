@@ -1,3 +1,10 @@
+# !user/bin/env/python3
+# this is a single line comment
+#python programm it illustrate how to use"if" and "elif".
+# name = peter keredah
+# email =peterkeredah85@gmail.com
+# date: 13th feb 2023
+#file : for_loop
 # Get the average of the nurmbers in the list by first entering them as input 
 #numbers=[]
 n = int(input("Enter the number of elements: ")) 

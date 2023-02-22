@@ -3,8 +3,8 @@
 #python programm it illustrate user_input.
 # name = peter keredah
 # email =peterkeredah85@gmail.com
-# date: 12th feb 2023
-#file : operators
+# date: 10th feb 2023
+#file : user_input 
 
 name=input("what is your name")
 print("my name is ",name)

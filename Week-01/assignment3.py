@@ -3,7 +3,7 @@
 #python programm to displat a big T.
 # name = peter keredah
 # email =peterkeredah85@gmail.com
-# date: 08th feb 2023
+# date: 9th feb 2023
 #file : operators
 
 

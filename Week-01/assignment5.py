@@ -3,8 +3,8 @@
 #python programm it illustrate how to print a reciept.
 # name = peter keredah
 # email =peterkeredah85@gmail.com
-# date: 08th feb 2023
-#file : operators
+# date: 10th feb 2023
+#file : assignment5
 a="EQUITY BANK"
 b="ACCRA ROAD BRANCH"
 c="8th FEB 2023"
