@@ -1,3 +1,11 @@
+
+# !user/bin/env/python3
+# this is a single line comment
+#assignment.
+# name = peter keredah
+# email =peterkeredah85@gmail.com
+# date: 23nd feb 2023
+#file : assignment
 #write a factorial of a number using function
 num =int(input("enter a number"))
 factorial=1

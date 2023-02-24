@@ -1,3 +1,10 @@
+# !user/bin/env/python3
+# this is a single line comment
+#python programm it illustrate.
+# name = peter keredah
+# email =peterkeredah85@gmail.com
+# date: 17th feb 2023
+#file : typecasting
 
 # Python program to demonstrate
 # implicit type Casting

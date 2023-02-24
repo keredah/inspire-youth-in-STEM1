@@ -1,4 +1,11 @@
 #write a programm to calculate simple interest.
+# !user/bin/env/python3
+# this is a single line comment
+#python programm assignment.
+# name = peter keredah
+# email =peterkeredah85@gmail.com
+# date: 23nd feb 2023
+#file : assignment
 
 # Python3 program to find simple interest
 #  principal amount, time and

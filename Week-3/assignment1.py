@@ -1,3 +1,12 @@
+
+# !user/bin/env/python3
+# this is a single line comment
+# assignment.
+# name = peter keredah
+# email =peterkeredah85@gmail.com
+# date: 20th feb 2023
+#file : assignment1
+
 #create alist an empty list of musicians and add 3 musicians
 #using for loo add 5 musicians
 #copy to a new list called "select"

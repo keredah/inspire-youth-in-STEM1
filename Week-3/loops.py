@@ -1,3 +1,12 @@
+# !user/bin/env/python3
+# this is a single line comment
+#python programm it illustrate how use loops.
+# name = peter keredah
+# email =peterkeredah85@gmail.com
+# date: 23th feb 2023
+#file : loops
+
+
 #if else
 #do while
 #something si done while a condition is being made.

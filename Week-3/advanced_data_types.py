@@ -1,4 +1,12 @@
-#advanced data_ types
+# !user/bin/env/python3
+# this is a single line comment
+#python programm it illustrate advanced data types
+# name = peter keredah
+# email =peterkeredah85@gmail.com
+# date: 20th feb 2023
+#file : advanced data types
+
+# advanced data_ types
 #mutable vs imutabe
 #add/remove elements
 #immutable ------>data types

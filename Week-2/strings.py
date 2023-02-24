@@ -1,3 +1,11 @@
+# !user/bin/env/python3
+# this is a single line comment
+#python programm to show strings in python program
+# name = peter keredah
+# email =peterkeredah85@gmail.com
+# date: 16th feb 2023
+#file : strings
+
 poem= """this is a poem about nothiing
          its funny people lough about nothing
  """

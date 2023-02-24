@@ -1,3 +1,11 @@
+
+# !user/bin/env/python3
+# this is a single line comment
+# Assignment
+# name = peter keredah
+# email =peterkeredah85@gmail.com
+# date: 20th feb 2023
+#file : assignment
 #using a for loop draw a triangle
 rows= int(input("enter alphabet pattern Rows"))
 print("====print triangle alphabet pattern")

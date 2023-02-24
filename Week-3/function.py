@@ -1,3 +1,10 @@
+# !user/bin/env/python3
+# this is a single line comment
+#python programm it illustrate how to use function.
+# name = peter keredah
+# email =peterkeredah85@gmail.com
+# date: 23rd feb 2023
+#file : function
 #sets
 my_fruits={"banana","oranges","mangoes","melon","pinaple"}
 for fruit in my_fruits:
@@ -19,4 +26,4 @@ add_numbers(67,67)
 add_numbers(56,34)
 #write a programm to print fuctorial of a number using function
 def fuctorial(n):
-for i in range(0,n)
+    for i in range(0,n)

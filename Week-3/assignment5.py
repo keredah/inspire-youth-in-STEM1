@@ -1,3 +1,11 @@
+
+# !user/bin/env/python3
+# this is a single line comment
+#python programm it illustrate assignment.
+# name = peter keredah
+# email =peterkeredah85@gmail.com
+# date: 22nd feb 2023
+#file : assignment
 #write a programm that solves quadratic equation.
 #ax2 + bx + c = 0# Solve the quadratic equation ax**2 + bx + c = 0
 
