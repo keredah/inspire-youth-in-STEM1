@@ -5,21 +5,29 @@
 # email =peterkeredah85@gmail.com
 # date: 23th feb 2023
 #file : loops
-
-
 #if else
 #do while
-#something si done while a condition is being made.
-while(True):
-    print ("my name is peter")
-num =24   
-while(True):
-    if(num>20):
+#something si done while a condition is being made
+#do while
+# do something while a condition is being met
+while (True):
+    print("My name is Bob")
+    break
+
+num = 24
+while (True):
+    if num>20 :
         print(num)
-age =24
-gender =male
-if age(age<18 & gender == male)
-if(weight=75& weight<12):
-        print("youre healthty")
-        elif:
-    print("youre fine")
+        break
+
+age = 24
+gender = "male"
+weight = 60
+height = 120
+if ((age <= 18) & (gender == "male")) :
+    if (weight > 75 | height < 125) :
+        print("you are obese")
+    else:
+        print("you are healthy")
+else:
+    print("you are just fine")
