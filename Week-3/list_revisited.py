@@ -1,11 +1,10 @@
-# !user/bin/env/python3
+#user/bin/env/python3
 # this is a single line comment
-#python programm it illustrate listing.
+#python programm on listing.
 # name = peter keredah
 # email =peterkeredah85@gmail.com
 # date: 23rd feb 2023
 #file : listing
-
 myfevouriteFruits=["banana","apple","melon","orange","pinaple"]
 for fruit in myfevouriteFruits:
     print (fruit)
