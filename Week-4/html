@@ -1,0 +1,136 @@
+
+@@ -0,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>PYTHON PROJECT</title>
+</head>
+<body style="background-color:rgb(152, 214, 214);"></body>
+
+    <h1 style="font-size:60px;">Introduction to python</h1>
+
+    <p>
+        <ol>
+       <li> Python has syntax that allows developers to write programs with fewer lines than some other programming language.</li>
+    </ol>
+    </p>
+    <h2> used for</h2>
+    <ul>
+        <li>Web development</li>
+        <li>Software development</li>
+        <li>Mathematics</li>
+        <li>System scripting</li>
+    </ul>
+    </p>
+
+    <h2>Variables</h2>
+    <p>
+        <ol>
+            <li>Created the moment you first assign a value to it</li>
+        </ol>
+        <img src="https://www.tutorialbrain.com/wp-content/uploads/2019/12/Python_variable_value_data_type_changes.png">
+
+    </p>
+   <h2>List</h2>  
+   <p>
+    <ul>
+        <li>Are used to store multiple items in a single variables</li>
+        <li>Also they store collection of data</li>
+        <li>Its items are ordered ,changeable and allow duplicate values</li>
+        <li style="color:rgb(168, 27, 58);">NOTE</li>
+        <li>are created using square brackets</li>
+        <li style="color:rgb(19, 145, 29);">example</li>
+    </ul>
+    <img src="https://datagy.io/wp-content/uploads/2021/09/Quick-Answer-Python-Get-Last-Item-From-List.png">
+   </p> 
+   <h2>LIST METHODS</h2>
+   <p>
+    <ul>
+        <li>INDEX-returns the index of the first element with the specified value.</li>
+        <li>APPEND-adds an element to the end of the list.</li>
+        <li>COPY-returns a copy of the list.</li>
+        <li>INSERT-adds an element at the specified value.</li>
+        <li>COUNT-returns the number of times an element occurs in a list.</li>
+        <li>POP-removes an element x at an index y.</li>
+        <li>REMOVE-removes the first occurence of an element.</li>
+        <li>SORT-arranges the list in ascending order.</li>
+    </ul>
+   </p>  
+
+
+
+</body>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</html>
+  47  
+temp.htm
+@@ -5,18 +5,49 @@
+
+        </title>
+    </head>
+    <body style="background-color:aqua;">
+    <body>
+        <table>
+            <tr>
+                <th style="background-color:yellow;"></th>
+                <th>Newyork</th>
+                <th>Nairobi</th>
+                <th><I>FIRSTNAME</I></th>
+                <th><I>SECONDNAME</I></th>
+
+            </tr>
+            <tr>
+                <td>berry</td>
+                <td>cherry</td>
+                <td>orange</td>
+            </tr>
+                <ol>
+                <td><li>Mitchelle</li></td>
+                <td>Chege</td>
+                </ol>
+             </tr>
+             <tr>
+                <ol>
+                <td><li>Njoki</li></td>
+                <td>Karanja</td>
+                </ol>
+             </tr>
+             <tr>
+                <ol>
+                <td><li>Wanjiru</li></td>
+                <td>Hellen</td>
+                </ol>
+             </tr>
+             <tr>
+                <ol>
+                <td><li>Ivy</li></td>
+                <td>Chege</td>
+                </ol>
+             </tr>
+             <tr>
+                <ol>
+                <td><li>Ebson</li></td>
+                <td>Wachira</td>
+                </ol>
+             </tr>
+             <tr>
+                <ol>
+                <td><li>Keith</li></td>
+                <td>Kirari</td>
+                </ol>
+             </tr>
+        </table>
+    </body>
+</html>

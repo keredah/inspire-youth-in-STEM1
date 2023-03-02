@@ -1,3 +1,10 @@
+# !user/bin/env/python3
+# this is a single line comment
+#python programm it illustrate object oriented programming
+# name = peter keredah
+# email =peterkeredah85@gmail.com
+# date: 27  rd feb 2023
+#file : object oriented programming car
 class car:
     def __init__(self,model,make,year,engine_capacity):
         self.model = model
