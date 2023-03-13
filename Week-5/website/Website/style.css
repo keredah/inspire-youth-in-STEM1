@@ -14,6 +14,7 @@
     background-position: center;
     background-size: cover;
     position: relative;
+    color: black;
 
 }
 nav{
@@ -44,11 +45,14 @@ nav img{
 .nav-links ul li::after{
     content:'';
     width: 0%;
-    height: 2px;
+    height: 7px;
     background: #f44336;
     display: block;
     margin: auto;
     transition: 0.5s;
+    display: block;
+    align-self:first baseline
+    font-family:'Times New Roman', Times, serif;
 }
 .nav-links ul li:hover::after{
     width: 100%;
@@ -65,7 +69,8 @@ nav img{
 }
 .text-box h1{
     font-size: 62px;
-
+align-self: center;
+color: blue;
 }
 .text-box p{
     margin: 10px 0 40px;
@@ -86,6 +91,12 @@ nav img{
 
 .hero-btn:hover{
     border: 1px solid #f44336;
-    background: #f44336;
-    transition: 1s;
+    background:#f44336;
+    color: blanchedalmond;
+}
+#images{
+    align-items: baseline;
+    align-self: baseline;
+    padding: auto;
+    text-decoration-line: none;
 }

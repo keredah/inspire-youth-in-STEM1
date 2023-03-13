@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="stylesheet"href="style.css">
+    </head>
+        <body>
+        <h1 id="text">javascript basic</h1>
+        <h1 id="f_name"></h1>
+        <h1 id="s_name"></h1>
+        <h1 id="age"></h1>
+        <h1 id="weght"></h1>
+
+        <h2 id="f_number"></h2>
+        <h2 id="s_number"></h2>
+        <h2 id="full_name"></h2>
+        
+        <h2 id="fruits"></h2>
+    
+        <script>
+            //variable in javascript
+            //number
+            var f_number=12;
+            var s_number=22;
+            //arithmetic operators
+            var f_number=12
+            var s_number=22
+            var sum_num=f_number+s_number;
+            var diff_num=f_number-s_number;
+            var quo_mun=f_number/s_number;
+            var product_num=f_number*s_number;
+            modulus=f_number%s_number
+
+            //string user
+            var my_first_name="Peter"
+            var my_second_name="keredah"
+            var my_city="Nairobi"
+            var full_name=my_first_name+" "+my_second_name;
+            //array[]
+            let fruits =["melon","orange","pinaple","banana"]
+            let my_fruit=fruits[fruits.length-1]
+            var msg=""
+            //conditions---if else
+            if(age<18){
+                msg="you can drive";
+            }else{
+                msg="still too young to drive";
+            }
+            document.getElementById("f_name").innerHTML=my_first_name
+            document.getElementById("s_name").innerHTML=my_second_name
+            document.getElementById("s_number").innerHTML=s_number;
+            document.getElementById("full_name").innerHTML=my_first_name+""+my_second_name;
+            document.getElementById("fruits").innerHTML=msg;
+
+        </script>
+        <button>CLICK ME</button>
+        </body>
+</html>

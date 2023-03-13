@@ -1,16 +1,133 @@
 
 .header{
-    background-image:url(images/banner.png) ;
-    background-position:center;
-    min-height: 100vh;
-    width: 100%;
-    background-size: cover;
-    position: relative;
+min-height: 100v;
+min-height: 100vh;
+width:100%;
+
+background-position: center;
+background-image: url(images/university.jpg);
+background-size: cover;
+position:relative;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+align-self: center;
+align-content: center;
+font-size: larger;
+font-variant: small-caps;
+text-decoration: chartreuse;
+text-align: center;
+color:chartreuse
 }
 .nav{
     display: flex;
     padding:2% 6%;
     align-items: center;
     justify-content: space-between;
+    color:rgb(255, 0, 0);
 
+}
+nav img{
+    width: 100px;
+}
+.nav-links{
+text-align: center;
+flex: 1;
+display: inline-block;
+font: size 50px
+
+}
+.nav-links ul li{
+    list-style: none;
+    display: block;
+    padding: 8px 12px;
+    position:relative;
+    color: rgb(255, 0, 13);
+    display: inline-block;
+}
+.nav-links ul li a{
+    color: blueviolet;
+    text-decoration: none;
+    font: size 13px;;
+}
+.nav-links ul li a{
+    color:rgb(235, 12, 12)
+}
+h1{
+    display: inline-block;
+    -moz-text-decoration-style: initial;
+    text-align:center
+    font-family:'Times New Roman', Times, serif
+    font-size: x-large;
+    text-align:center;
+    font: bold;
+    font-style::shadow
+    text-decoration-line: line-through;
+    text-decoration:double;
+    
+    
+
+}
+.hero{
+    display:inline-block;
+    text-decoration: none;
+    color: #13e47b;
+    border:1px solid;
+    padding:8px 15px;
+    background-blend-mode:transparent;
+    border-color: blue;
+    text-align: center;
+    text-size-adjust:initial;
+    border: #0f7e46;
+    color: beige;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: xx-large;
+}
+.hero-btn{
+    display: inline-block;
+    text-decoration: rgb(226, 43, 171);
+    color: #06f339;
+    padding: 34px 38px;
+    background: transparent;
+    position: relative;
+    cursor: pointer;
+    text-align: center;
+    border-color: aqua;
+    font-size: large;
+    border: 1px solid hsl(59, 94%, 51%);
+
+}
+#paragraph{
+    font-size: medium;
+    color: blue;
+    align-self: center;
+    background: none;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+}
+.images{
+   display: inline-block;
+   align-items:last baseline; 
+   
+}
+body{
+    font-family: 'Times New Roman', Times, serif;
+    align-self: center;
+
+}
+#text-box{
+align-items: start;
+font-style: italic;
+}
+.text-box h1{
+ font-size: 30px;
+align-self: center;
+color: blue;
+font-family: 'Times New Roman', Times, serif;
+font-style: italic;
+}
+.text-box p{
+    margin: 10px 40px;
+    font-size: 20px;
+    color: tomato;
+    font-style: oblique;
+    text-align: center;
 }
